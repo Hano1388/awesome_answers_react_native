@@ -1,0 +1,3 @@
+rootProject.name = 'awesome_answers_react_native'
+
+include ':app'
